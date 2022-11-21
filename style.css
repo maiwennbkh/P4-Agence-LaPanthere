@@ -39,10 +39,7 @@ a:hover {
     position: relative;
 }
 
-.bloc .container {
-    padding-left: 0;
-    padding-right: 0;
-}
+
 
 .bloc-lg {
     padding: 100px 50px;
@@ -654,9 +651,7 @@ a {
     color: #575757;
 }
 
-.container {
-    max-width: 1000px;
-}
+
 
 .hero-bloc-text {
     font-size: 38px;
@@ -687,6 +682,7 @@ p {
 
 .h1 {
     font-family: "Open Sans";
+    
 }
 
 .cta-hero {
@@ -735,6 +731,7 @@ h4 {
 
 .white {
     color: #FFFFFF;
+    text-align: center;
 }
 
 .portfolio-thumb {
@@ -769,15 +766,17 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #000000;
 }
 
 .tc-white {
-    color: #F3976C;
+    color: #ffffff;
+    text-align: center;
+    font-weight: revert;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #000000;
     color: #FFFFFF;
 }
 
